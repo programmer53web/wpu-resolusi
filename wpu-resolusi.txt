@@ -1,3 +1,4 @@
 WPU RESOLUSI
 - Konsisten dalam belajar web prog dibimbing
 - Belajar Framework Laravel
+- Selesai Tesis tepat waktu 2023
