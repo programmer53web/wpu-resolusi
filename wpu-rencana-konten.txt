@@ -3,5 +3,6 @@ Rencana WPU
 - Javascript
   * ES6
   * Frame work JS
+  * Struktur Data Dasar
 - PHP Framework
 - Laravel
