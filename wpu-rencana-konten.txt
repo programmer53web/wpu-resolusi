@@ -4,7 +4,10 @@ Rencana WPU
   * ES6
   * Frame work JS
    > Angular
-   > Reacg
+   > React
+   > Vue
 - PHP Framework
-- Laravel
+  > Laravel
 - Interview
+- Struktur Data Dasar
+- Piton
