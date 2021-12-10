@@ -3,6 +3,8 @@ Rencana WPU
 - Javascript
   * ES6
   * Frame work JS
-  * Struktur Data Dasar
+   > Angular
+   > Reacg
 - PHP Framework
 - Laravel
+- Interview
