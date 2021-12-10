@@ -3,8 +3,11 @@ Rencana WPU
 - Javascript
   * ES6
   * Frame work JS
+   > Angular
+   > React
    > Vue
 - PHP Framework
-  * Laravel
+  > Laravel
+- Interview
 - Struktur Data Dasar
 - Piton
