@@ -1,0 +1,3 @@
+WPU RESOLUSI
+- Konsisten dalam belajar web prog dibimbing
+- Belajar Framework Laravel
