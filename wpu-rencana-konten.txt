@@ -1,0 +1,7 @@
+Rencana WPU
+
+- Javascript
+  * ES6
+  * Frame work JS
+- PHP Framework
+- Laravel
