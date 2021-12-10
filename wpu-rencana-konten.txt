@@ -3,8 +3,8 @@ Rencana WPU
 - Javascript
   * ES6
   * Frame work JS
-  * Struktur Data Dasar
-  * Vue
-  * Piton
+   > Vue
 - PHP Framework
-- Laravel
+  * Laravel
+- Struktur Data Dasar
+- Piton
